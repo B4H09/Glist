@@ -2,7 +2,7 @@ import os
 os.system('printf "\033[3;32m" ')
 
 os.system('printf "\033[3;36m"') 
-    os.system('figlet Glist')
+os.system('figlet Glist')
 
 list=input('\nEntre Name The List : \n')
 os.system('clear') 
