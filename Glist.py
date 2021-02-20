@@ -2,9 +2,9 @@ import os
 os.system('printf "\033[3;32m" ')
 
 os.system('printf "\033[3;36m"') 
-os.system('figlet Glist')
+os.system('figlet G l i s t')
 
-list=input('\nEntre Name The List : \n')
+list=input('\nEntre Name The List : ')
 os.system('clear') 
 os.system('printf "\033[3;36m"') 
 os.system('figlet Glitch - Team')
